@@ -12,7 +12,7 @@ setuptools.setup(
     author="Alessio Buccino, Cole Hurwitz, Samuel Garcia, Jeremy Magland, Matthias Hennig",
     author_email="jmagland@flatironinstitute.org",
     description="Python widgets for spike sorting and electrophysiology",
-    url="https://github.com/SpikeInterface/spikewidgets",
+    url="https://github.com/KnierimLab/spikewidgets",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
